@@ -1,3 +1,4 @@
 # Student-portal
 Student access to enroll 
-student -portal.html
+student -portal
+student-portal.html
